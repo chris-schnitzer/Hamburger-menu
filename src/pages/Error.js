@@ -1,7 +1,10 @@
 export default function Error() {
 	return(
-		<>
-			<h1>ERROR</h1>
+		<>	
+			<main>
+				<h1>ERROR</h1>
+			</main>
+			
 		</>
 	)
 }

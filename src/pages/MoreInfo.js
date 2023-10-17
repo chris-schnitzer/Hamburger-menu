@@ -1,5 +1,8 @@
 export default function MoreInfo() {
 	return(
-		<h1>More Info</h1>
+		<main>
+			<h1>More Info</h1>
+		</main>
+		
 	)
 }
